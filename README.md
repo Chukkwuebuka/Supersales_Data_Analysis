@@ -1,7 +1,5 @@
 # Supersales_Data_Analysis
 Analysis of retail sales data using SQL and Power BI to derive actionable business insights, including profit performance and regional revenue distribution.
-# Supersales_Data_Analysis
-
 ## Project Overview
 This project focuses on analyzing retail sales data to identify key business trends and optimize profitability. By combining SQL for data extraction and Power BI for visualization, I transformed raw datasets into an interactive dashboard that provides actionable insights.
 
